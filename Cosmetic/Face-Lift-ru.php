@@ -1,0 +1,250 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Face Lift : Cosmetic & Plastic Surgery  :  Krung Siam St.Carlos Medical & Spa</title>
+
+<? include"script.php"; ?>
+
+</head>
+
+<body>
+
+
+<div class="wrap boxed">
+	<div id="header">
+        <div class="menu-wrap">
+        	<!-- start menu wrap -->
+        	<div class="main-menu-wrap">
+            	<!-- start main menu -->
+            	<div class="main-menu">
+                	<?include"Menu-ru.php"?>
+                </div><!-- end main menu -->
+                
+                <!-- start logo -->
+                
+            </div><!-- end main menu wrap -->
+            
+            <div id="search-wrap2">
+                <!-- start searchBar -->
+                <div class="search">
+<?include"lang.php"?>
+                </div><!-- end searchBar -->
+                
+                <!-- start call information -->
+                <div class="cat">
+                    <h3>Head to Neck</h3>
+                        <ul>
+                            <li><a href="Cosmetic-Overview-ru.php">Главная</a></li>
+                            <li>/</li>
+                            <li><a href="#">Лечение</a></li>
+                            <li>/</li>
+							<li><a href="#">Head to Neck</a></li>
+                            <li>/</li>
+                            
+                            <li>Подтяжка лица </li>
+                        </ul>
+                </div><!-- end call information -->
+            </div>
+            
+        </div><!-- end menu wrap -->
+    </div><!-- end header section -->
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"Treatment-Menu-ru.php"?>
+                    
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#">Подтяжка лица </a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                
+                                    <img src="../images/1.3.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+<table width="615px">
+<tr>
+<td width="200" valign="top" align="left"><h3>Процедуры :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Известная в медицинском мире как ритидэктомия.  Это операция, во время которой подтягивается кожа лица и мышцы  вокруг лица и шеи. Эта операция может проводиться самостоятельно, а может совмещаться с подтягиванием лба и / или пластикой век.</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Кандидаты на операцию :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Мужчины, женщины старше 40, у которых хорошая костная структура лица, но беспокоит вялая обвисшая кожа или глубокие складки вокруг носа и рта.</p>
+<br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Риск :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Осложнения и их выраженность  различна у разных пациентов   и зависит от разных факторов. Нет двух одинаковых людей. Осложнения, приведенные ниже,  представлены как возможные, так и отдаленные последствия после  операции .</p>
+<ul class="bullet">
+
+<li><p>Повреждение лицевых чувствительных или двигательных нервов ( обычно – временное. Но может быть и постоянным).</p></li>
+<li><p>Инфекция, кровотечение. </p></li>
+<li><p>Медленное заживление,слишком выраженный рубец.</p></li> 
+<li><p>Ассиметрия или изменение линии роста волос.</p></li>
+
+
+
+</ul>
+
+<br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Операция :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Длительность: 2-3 часа.<br>
+Обезболивание: общее.
+
+</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Пообочные эффекты. :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Временные синяки, отеки, онемение кожи.Уплотненность и чувство напряженности вокруг лица.Сухость кожи.
+
+
+</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Восстановительный период :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Возвращение на работу: через 10-14 дней.
+Усиление физической активности:через 2 недели и больше.
+Синяки пройдут через 2-3 недели.
+Необходимо избегать прямых солнечных лучей в течение нескольких месяцев.
+
+<br/>
+Обращаем внимание, что этот текст является только общим руководством. Все детали лечения и операции должны быть обсуждены только во время консультации с Вашим лечащим врачом
+
+
+
+</p><br/></td>
+</tr>
+
+
+
+</table>
+				   
+		
+
+
+								
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+
+
+
+
+    	</div><!-- end main wrap-->
+
+
+
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+     <div id="footer">
+    	<?include"footer.php"?>
+        
+    </div><!-- end footer -->
+    
+</div>
+<div class="clear"></div>
+<div id="footerShadow" class="boxed"><div class="shadowHolderflat"><img src="images/big-shadow.png" alt=""></div></div>
+</body>
+
+</html>
+
+<!--
+<ul class="bullet">
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li> 
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li> 
+</ul>
+-->

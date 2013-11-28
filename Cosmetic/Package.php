@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+		<script type="text/javascript" src="modernizr.custom.29473.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/style2.css" />
+		<script type="text/javascript" src="js/modernizr.custom.04022.js"></script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Our Package : Cosmetic & Plastic Surgery  :  Krung Siam St.Carlos Medical & Spa</title>
+
+<? include"script.php"; ?>
+
+</head>
+
+<body>
+
+
+<div class="wrap boxed">
+	<div id="header">
+        <div class="menu-wrap">
+        	<!-- start menu wrap -->
+        	<div class="main-menu-wrap">
+            	<!-- start main menu -->
+            	<div class="main-menu">
+                <?include"Menu.php"?>
+                </div><!-- end main menu -->
+                
+                <!-- start logo -->
+                
+            </div><!-- end main menu wrap -->
+            
+            <div id="search-wrap2">
+                <!-- start searchBar -->
+                <div class="search">
+<?include"lang.php"?>
+                </div><!-- end searchBar -->
+                
+                <!-- start call information -->
+                <div class="cat">
+                    <h3>Package</h3>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li>/</li>
+                            
+                            
+                            <li>Our Package</li>
+                        </ul>
+                </div><!-- end call information -->
+            </div>
+            
+        </div><!-- end menu wrap -->
+    </div><!-- end header section -->
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+             <!-- Full width column -->
+            <div class="fullWidth">
+			<section class="ac-container2">
+			<br><br>
+                <h3>COSMETIC SURGERY PACKAGES 2013 </h3>
+                
+                <br><br>
+				<table>
+				<tr>
+				<td><?include"test.php"?>
+				</td>
+				</tr>
+				</table>
+				<table>
+				<tr>
+				<td><?include"test2.php"?>
+				</td>
+				</tr>
+				</table>
+</section>
+<section class="tabs">
+	            <input id="tab-1" type="radio" name="radio-set" class="tab-selector-1" checked="checked" />
+		        <label for="tab-1" class="tab-label-1">Package includes:</label>
+		
+	            <input id="tab-2" type="radio" name="radio-set" class="tab-selector-2" />
+		        <label for="tab-2" class="tab-label-2">Package excludes:</label>
+		
+	            <input id="tab-3" type="radio" name="radio-set" class="tab-selector-3" />
+		        <label for="tab-3" class="tab-label-3">Patient Eligibility:</label>
+			
+	            
+            
+			    <div class="clear-shadow"></div>
+			
+		        <div class="content">
+			        <div class="content-1">
+						<br>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Hospital accommodation as indicated in each package<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Standard Pre-Operation evaluation e.g. blood test, X-Ray & EKG<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Operating Room Charges:<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR Room Use<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intensive Care (2 hours)<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrub & Circulate Nurse<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implants<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Medical Equipment and Medical Supplies necessary for the procedure<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Medications :<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Routine medication used for the procedure<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Doctor Fees<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Transport to/from Bangkok International Airport<br><br>
+
+						<!--
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xxxxxx<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xxxxxx<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xxxxxx<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xxxxxx<br><br>
+						-->
+						
+						</p>
+				    </div>
+			        <div class="content-2">
+						<br>
+                        <p>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Charges for inpatient stay in excess of the number of nights indicated in the package. Additional charges for these days including room and other charges will be added to the package price at the normal hospital rates;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Charges for other procedures or other plastic surgery procedures<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Charges for intensive care in excess of the standard 2 hours which is included in the package;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Outpatient fees and expenses incurred before admission;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Other charges not related to the procedure, e.g. pathology and other studies;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Other charges for laboratory profiles and medications not related to the procedure;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Items of a personal nature such as in-room soft drinks, telephone charges and guest meals will be charged at the normal rates in effect;<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Take home medications and supplies.<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Charges for any garments required during or after surgery:<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anti-embolism stockings which may be required during the surgery, e.g. to prevent DVT (Deep Vein Thrombosis)<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Special garments for patients after surgery (e.g. liposuction, breast augmentation)<br><br>
+						
+						</p>
+				    </div>
+			        <div class="content-3">
+						<br><p>
+						The package is applicable for elective, uncomplicated patients. Patients with the following conditions are considered to be complex or high risk cases and will not qualify for the package:<br><br>
+                        
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Bleeding disorders<br><br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Patients with underlying severe medical problems that required additional treatment and investigation including, but not limited to HIV and uncontrolled diabetes<br><br><br><br>
+						<img src="images/full/pk.jpg" width="595" height="339" border="0" alt="">
+						</p>
+				    </div>
+				    
+		        </div>
+			</section>
+
+
+            </div>
+            <!--end Full width column -->
+
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+            
+
+
+
+
+    	</div><!-- end main wrap-->
+
+
+
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+     <div id="footer">
+    	<?include"footer.php"?>
+        
+    </div><!-- end footer -->
+    
+</div>
+<div class="clear"></div>
+<div id="footerShadow" class="boxed"><div class="shadowHolderflat"><img src="images/big-shadow.png" alt=""></div></div>
+</body>
+
+</html>

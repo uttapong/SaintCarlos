@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Thyroid Function Panel</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+    <link rel="stylesheet" href="css/style.css">
+      <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.1.1.js"></script>
+    <script src="js/bgstretcher.js"></script>
+    <script src="js/forms.js"></script>
+
+    <script>
+	$(document).ready(function() {	
+      //  Initialize Backgound Stretcher
+      $('BODY').bgStretcher({
+        images: ['images/slide-1.jpg'], 
+		imageWidth: 1600, 
+		imageHeight: 964, 
+		resizeProportionally:true	
+       });	   	
+    });	
+	
+    </script>
+
+    <!--[if lt IE 8]>
+   <div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+ 	<![endif]-->
+    <!--[if lt IE 9]>   
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+   <script src="js/html5shiv.js"></script>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>  
+  <![endif]-->
+
+    </head>
+    <body>
+<div class="extra-block1"> 
+      <!--==============================row-top=================================-->
+
+<?include"lang.php"?>
+  </div>
+      
+      <!--==============================header=================================-->
+      
+   <header>
+    <div class="row-nav">
+        <div class="main">
+        <h1 class="logo"><a href="index.html"><img alt="Eni Gma" src="images/logo.png"></a></h1>
+        <nav>
+           <ul class="menu">
+			<li class="###"><a href="index-en.php">Home</a></li>
+            <li class=""><a href="About-Us-en.php">About Us</a></li>
+            <li class="###"><a href="Services-en.php">Services</a></li>
+            <li class="current"><a href="Package-en.php">Package</a></li>
+            <li class=""><a href="Contacts-en.php ">Contacts</a></li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
+      </div>
+      </div>
+  </header>
+  
+  <!--==============================content=================================-->
+  
+<section id="content">
+  
+
+
+  <!--==============================content=================================-->
+
+  <div class="main-block">
+    <div class="container_12">
+	<h3>Thyroid Function Panel</h3>
+	 <h4>The thyroid is one of the important organs in your body. It maintains the metabolic level of almost all cells in the body. The thyroid hormones are also essential for normal nerve development, linear bone growth and proper sexual maturation. The following blood tests are used to evaluate your thyroid function whether it normally functioning or hypofunctioning (hypothyroidism) or hyperfunctioning (hyperthyroidism).</h4><br>
+
+
+<ul class="bullet">
+<li>T3</li>
+<li>Free T4</li>
+<li>TSH</li>
+<li>Thyroid Scan</li>
+</ul><br>
+
+     </div>
+  </div> 
+
+
+
+
+
+
+
+ </section> 
+
+
+<?include"inc-package.php"?>
+     <!--==============================footer================================-->
+      <footer>
+<?include"inc-footer.php"?>
+  </footer>
+    </div>
+</body>
+</html>
+
+
+
+<!--
+
+              <h3>&nbsp;&nbsp;</h3>
+              <ul class="bullet">
+
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+
+			  </ul>
+
+
+-->
+
+			  		<!--	  
+					<article class="grid_5">
+              <h4></h4><br>
+              <ul class="bullet">
+
+<li>2.1.4. Facial Treatments</li><ul class="bullet2">
+<li>Personalized Oriental Facial</li>
+<li>Firming and Detox Facial</li>
+
+
+
+
+			  </ul>
+              
+		</article>
+        <article class="grid_3 prefix_2">
+              <h4>&nbsp;</h4><br><br><br>	
+             
+
+<ul class="bullet2">
+<li>Natural Radiant Facial</li>
+<li>Anti-Pigmentation Facial</li>
+
+
+			  </ul></article>
+			  -->

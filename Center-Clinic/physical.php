@@ -1,0 +1,189 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Rehabilitation (Physical Therapy) : คลินิกกายภาพบำบัด   :  Krung Siam St.Carlos Medical & Spa : โรงพยาบาลกรุงสยามเซนคาร์ลอส</title>
+<meta name="description" content="ให้บริการตรวจประเมิน ป้องกัน รักษา ฟื้นฟูสมรรถภาพ และบรรเทาอาการเจ็บปวดแก่ผู้ป่วยให้สามารถกลับไปใช้ชีวิตได้ใกล้เคียงสภาวะปกติมากที่สุด" />
+<meta name="keywords" content="ทำงาน,ถอนฟัน,ขูดหินปูน,อุดฟัน,รักษารากฟัน,รักษาโรคเหงือก,จัดฟัน,การจัดฟัน,ฟอกสีฟัน" />
+
+<? include"../Include/style-java.php"; ?>
+
+</head>
+
+<body>
+
+<? include"../Include/header.php" ?>
+        </div>
+    </div><!-- end header section -->
+    <div class="clear"></div>
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"center-sub.php"?>
+                    
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+            	 <!-- start call information -->
+                <div class="cat">
+                        <ul>
+                            <li><a href="#" title="หน้าแรก">หน้าแรก</a></li>
+                            <li>/</li>
+                            <li><a href="#"title="ศูนย์รักษาโรค">ศูนย์รักษาโรค</a></li>
+                            <li>/</li>
+                            <li><a href="#"title="คลินิกกายภาพบำบัด">คลินิกกายภาพบำบัด</a></li>
+                        </ul>
+                </div><!-- end call information -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#" title="คลินิกกายภาพบำบัด">คลินิกกายภาพบำบัด</a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                <a href="../images/Center-Clinic/physical.jpg" data-rel="prettyPhoto" >
+                                    <img src="../images/Center-Clinic/physical.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+                <ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ให้บริการตรวจประเมิน ป้องกัน รักษา ฟื้นฟูสมรรถภาพ และบรรเทาอาการเจ็บปวดแก่ผู้ป่วยให้สามารถกลับไปใช้ชีวิตได้ใกล้เคียงสภาวะปกติมากที่สุด</p></ul><br/>
+          
+                   
+                   
+					      <h3>การบริการของแผนกกายภาพบำบัด</h3><br/>
+
+					<h4>กายภาพบำบัดสำหรับผู้ป่วยออร์โธปิดิกส์ 
+(ผู้ป่วยความผิดปกติด้านกระดูก)</h4><br/>
+                    <ul class="bullet">            <li><p>กระดูกหัก ข้อเคล็ด ขัดยอก</p></li>
+                                <li><p>การอักเสบของข้อและเอ็น</p></li>
+                                <li><p>อาการข้ออักเสบ</p></li>
+                                <li><p>การฟื้นฟูหลังการสูญเสียอวัยวะ</p></li>
+                                <li><p>โรคของระบบกล้ามเนื้อและกระดูก</p></li>
+                                <li><p>การบาดเจ็บจากการเล่นกีฬา</p></li>
+                                <li><p>การบำบัดก่อนและหลังการผ่าตัดเกี่ยวกับข้อและกระดูก</p></li>
+                                <li><p>การรักษาอาการเจ็บปวดอย่างเฉียบพลันและเรื้อรัง</p></li>
+                                <li><p>การรักษาอาการบาดเจ็บของกล้ามเนื้อ</p></li>
+                                <li><p>เนื้อเยื่อที่ยึดติดกัน</p></li></ul><br/>
+                               
+                                
+
+                                
+                                
+<h4>การนวด</h4><br/>
+                                <ul class="bullet"><LI><p>ฟื้นฟูผู้ป่วยหลอดเลือดสมอง</p></LI>
+                                <LI><p>เนื้องอกสมอง</p></LI>
+                                <LI><p>การบำบัดก่อนและหลังการผ่าตัดรระบบประสาท</p></LI>
+                                <LI><p>การบาดเจ็บของกระดูกสันหลัง</p></LI>
+                                <LI><p>อัมพาตส่วนล่างของร่างกาย</p></LI>
+                                <LI><p>อัมพาตครึ่งซีก</p></LI>
+                                <LI><p>โรคเกี่ยวกับกล้ามเนื้อและเส้นประสาท</p></LI>
+                                <LI><p>โรคอัมพาตชนิดสั้น</p></LI>
+                                <LI><p>กล้ามเนื้อใบหน้าอ่อนแรง</p></LI>
+                </ul>   <br/>             
+                                                        <h4>การฟื้นฟูสมรรถภาพปอด</h4><br/>
+                                <ul class="bullet"><li><p>การร่อนระบายเสมหะ</p></li></ul></ul>        
+                                
+                              <br />
+                              
+                                <h3>อุปกรณ์และเครื่องมือทางการแพทย์</h3><br/>
+                                <ul class="bullet"><li><p>การรักษาด้วยเครื่องอัลตราซาวนด์</p></li>
+                                <li><p>การรักษาด้วยเครื่องไฟฟ้าคลื่นสั้น</p></li>
+                                <li><p>เครื่องดึงคอและดึงหลัง</p></li>
+                                <li><p>การรักษาด้วยเครื่องกระตุ้นไฟฟ้าเพื่อลดอาการปวด</p></li>
+                                <li><p>การประคบด้วยความร้อนและความเย็น</p></li>
+                                <li><p>การออกกำลังกล้ามเนื้อ</p></li>
+                                <li><p>การฟื้นฟูสมรรถภาพผู้ป่วยโรคหลอดเลือดสมอง</p></li></ul><br />
+                                
+                                <h3>เวลาให้บริการ</h3><br/>
+                                <ul class="bullet"><li><p>วันจันทร์ - วันเสาร์ 	09.00 - 20.00 น.</p></li>
+                                <li><p>วันอาทิตย์		10.00 - 18.00 น.</p></li></ul><br />
+                                
+                                <h3>สถานที่ตั้ง</h3><br/>
+                              <ul class="bullet">  <li><p>โรงพยาบาลกรุงสยามเซ็นต์คาร์ลอส  ชั้น 2 บริเวณแผนกผู้ป่วยนอก (OPD)</p></li></ul><br/>
+                                
+                                <h3>การนัดหมายและติดต่อสอบถาม</h3><br/>
+                               <ul class="bullet"><li><p>โทรศัพท์ : 0-2975-6700 ต่อ 3310,3332</p></li>
+                                <li><p>โทรสาร: 0-2975-6737</p></li>
+<li><h4>E-mail: <a href="mailto:stcarlos@stcarlos.com">stcarlos@stcarlos.com</a></h4>
+</li>                              <li><p><h4>Website: <a href="http://www.stcarlos.com">http://www.stcarlos.com</a></h4></p></li></ul><br/>
+
+				
+
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+    	</div><!-- end main wrap-->
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+    <? include"../Include/footer.php" ?>
+</body>
+
+</html>

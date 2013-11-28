@@ -1,0 +1,58 @@
+<div id="categories">
+                        <h3>ศูนย์รักษาโรค</h3>
+                        <ul>
+                            <li>
+                                <p><a href="pediatrics.php">ศูนย์กุมารเวช</a></p>
+                            </li>
+                            <li>
+                                <p><a href="women.php">ศูนย์สุขภาพสตรี</a></p>
+                            </li>
+                            <li>
+                                <p><a href="cosmetic.php">ศูนย์ความงาม</a></p>
+                            </li>
+                            <li>
+                                <p><a href="hemodialysis.php">ศูนย์ไตเทียม</a></p>
+                            </li>
+                            <li>
+                                <p><a href="er.php">ศูนย์อุบัติเหตุ</a></p>
+                            </li>
+                            <li>
+                                <p><a href="brain.php">ศูนย์สมองและระบบประสาท</a></p>
+                            </li>
+                            <li>
+                                <p><a href="promotion.php">ศูนย์ตรวจสุขภาพ</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศูนย์ทันตกรรม</a></p>
+                            </li>
+
+                        </ul>
+                    </div>
+<div id="categories">
+                        <h3>คลินิกพิเศษ</h3>
+                        <ul>
+                            <li>
+                                <p><a href="hypertension.php">คลินิกความดันโลหิตสูง</a></p>
+                            </li>
+                            <li>
+                                <p><a href="diabetes.php">คลินิกโรคเบาหวาน</a></p>
+                            </li>
+                            <li>
+                                <p><a href="liver.php">คลินิกโรคทางเดินอาหารและตับ</a></p>
+                            </li>
+                            <li>
+                                <p><a href="urology.php">คลินิกศัลยกรรมทางเดินปัสสาวะ</a></p>
+                            </li>
+                            <li>
+                                <p><a href="surgery.php">คลินิกศัยกรรมทั่วไป</a></p>
+                            </li>
+                            <li>
+                                <p><a href="orthopedics.php">คลินิกศัยกรรมกระดูกและข้อ</a></p>
+                            </li>
+                            
+							<li>
+                                <p><a href="physical.php">คลินิกกายภาพบำบัด</a></p>
+                            </li>
+
+                        </ul>
+                    </div>

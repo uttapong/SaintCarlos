@@ -1,0 +1,76 @@
+<div id="categories">
+                        <h3>รายชื่อแพทย์ตามสาขาวิชาที่เชี่ยวชาญ</h3>
+                        <ul>
+                            <li>
+                                <p><a href="pediatrics.php">กุมารเวชศาสตร์<</a></p>
+                            </li>
+                            <li>
+                                <p><a href="women.php">จักษุวิทยา</a></p>
+                            </li>
+                            <li>
+                                <p><a href="cosmetic.php">ทันตกรรม</a></p>
+                            </li>
+                            <li>
+                                <p><a href="hemodialysis.php">นิติเวชศาสตร์</a></p>
+                            </li>
+                            <li>
+                                <p><a href="er.php">ประสาทศัลยศาสตร์</a></p>
+                            </li>
+                            <li>
+                                <p><a href="brain.php">รังสีวิทยา</a></p>
+                            </li>
+                            <li>
+                                <p><a href="promotion.php">วิสัญญีวิทยา</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">เวชปฏิบัติทัวไป</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">เวชศาสตร์ป้องกัน<br/> ( การตรวจสุขภาพ )</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">เวชศาสตร์ครอบครัว</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศัลยศาสตร์</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศัลยศาสตร์กระดูกและข้อ</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศัลยศาสตร์ทรวงอก</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศัลยศาสตร์ยูโรวิทยา</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ศัลยศาสตร์ตกแต่ง</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">สูติศาสตร์ นรีเวชวิทยา</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">โสต ศอ นาสิกวิทยา</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">ตจวิทยา</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">อายุรศาสตร์ทั่วไป</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">อายุรศาสตร์โรคทรวงอก</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">อายุรศาสตร์โรคหัวใจ</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">อายุรศาสตร์ระบบทางเดินอาหารและตับ</a></p>
+                            </li>
+							<li>
+                                <p><a href="dental.php">อายุรศาสตร์ระบบประสาท</a></p>
+                            </li>
+
+
+                        </ul>
+                    </div>

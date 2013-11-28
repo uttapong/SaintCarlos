@@ -1,0 +1,12 @@
+<div class="row-top">
+    <div class="main">
+     <ul class="list-soc">
+     <li><a href="index-th.php"><img width="40" height="20"  src="images/th.jpg" alt=""></a></li>
+     <li><a href="index-en.php"><img width="40" height="20"  src="images/en.jpg" alt=""></a></li>
+	 <li><a href="index-ru.php"><img width="40" height="20"  src="images/ru.jpg" alt=""></a></li>
+	 <li><a href="###.php"><img width="40" height="20"  src="images/JA.jpg" alt=""></a></li>
+     <li><a href="###.php"><img width="40" height="20"  src="images/CH.jpg" alt=""></a></li>
+	 <li><a href="###.php"><img width="40" height="20"  src="images/FR.jpg" alt=""></a></li>
+
+     </ul>
+        </div> </div>

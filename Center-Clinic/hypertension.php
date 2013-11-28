@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Hypertension Clinic : คลินิกความดันโลหิตสูง  :  Krung Siam St.Carlos Medical & Spa : โรงพยาบาลกรุงสยามเซนคาร์ลอส</title>
+
+<? include"../Include/style-java.php"; ?>
+
+</head>
+
+<body>
+
+<? include"../Include/header.php" ?>
+   
+        </div>
+    </div><!-- end header section -->
+    <div class="clear"></div>
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"center-sub.php"?>
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+            	 <!-- start call information -->
+                <div class="cat">
+                        <ul>
+                            <li><a href="#">หน้าแรก</a></li>
+                            <li>/</li>
+                            <li><a href="#">ศูนย์รักษาโรค</a></li>
+                            <li>/</li>
+                            
+                            <li>คลินิกความดันโลหิตสูง</li>
+                        </ul>
+                </div><!-- end call information -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#">คลินิกความดันโลหิตสูง</a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                <a href="../images/Center-Clinic/hypertension.jpg" data-rel="prettyPhoto" >
+                                    <img src="../images/Center-Clinic/hypertension.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+                <ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โรคความดันโลหิตสูง  (Hypertension) คือ
+สภาวะผิดปกติที่บุคคลมีระดับความดันโลหิตสูงขึ้นกว่าระดับปกติของคนส่วนใหญ่  ถือว่าเป็นสภาวะที่ต้องควบคุม    เนื่องจากความดันโลหิตทำให้เกิดความเสียหายและการเสื่อมสภาพของหลอดเลือดแดงทั่วร่างกายนำไปสู่ภาวะหลอดเลือดแดงแข็งและอุดตันหรือหลอดเลือดแตก    โรคที่จะเกิดขึ้นจากความดันโลหิตที่สูงผิดปกติมีหลายโรค     คือ   โรคหลอดเลือดหัวใจหรือโรคหัวใจขาดเลือด   โรคหลอดเลือดสมอง หรือโรคอัมพาต  โรคหัวใจวาย โรคไตวายเรื้อรัง  โรคสมองเสื่อม  การรักษาควบคุมความดันโลหิตให้ลดลงเป็นปกติจะสามารถป้องกันโรคร้ายแรงต่างๆ  ที่กล่าวถึงได้เป็นส่วนมาก</p></ul><br/>
+               
+				   
+<!--/ 2 CONTEND NO.2 /-->		<h3>การตรวจและวินิจฉัย</h3><br/>
+<!--/ 2.1 SUB DETIAL /-->		<ul class="bullet">
+								<li><p>การตรวจปัสสาวะ</p></li>
+								<li><p>การตรวจเลือด เพื่อดูการทำงานของไต ระดับเกลือแร่ในร่างกาย  ตลอดจนตรวจปัจจัยเสี่ยงอื่นๆ ต่อโรค
+หลอดเลือดหัวใจไปพร้อมกัน (เช่น ตรวจระดับน้ำตาลในเลือดและระดับไขมันในเลือด)</p></li>
+								<li><p>การตรวจคลื่นไฟฟ้าหัวใจ  </p></li>
+								
+
+								</ul><br/>
+
+
+
+								<h3>ข้อมูลเพิ่มเติม</h3><br/>
+								<ul>
+								<p>จากการที่ความดันโลหิตสูงนั้นไม่มีอาการ แต่หากท่านมีอาการแทรกซ้อนอันตรายที่อาจาเกิดขึ้นได้จากโรคความดันโลหิตสูง ควรพบแพทย์อย่างเร่งด่วนเมื่อมีอาการต่อไปนี้</p></li><br/>
+                                <ul class="bullet">
+								<li><p>เหนื่อยง่าย</p></li>
+								<li><p>เจ็บหน้าอก</p></li>
+								<li><p>ใจสั่น</p></li>
+								<li><p>ปวดศีรษะและอาเจียนอย่างกะทันหัน</p></li>
+								<li><p>ปวดที่แขนหรือขาข้างใดข้างหนึ่ง แม้จะเพียงแค่ครู่และหายไปเอง</p></li>
+								<li><p>ตาข้างใดข้างหนึ่งสูญเสียการมองเห็นไปชั่วขณะ</p></li>
+								</ul></ul>
+								<br/>
+
+
+
+
+								
+<!--/ 5 SERVICE HOUR /-->		<h3>เวลาให้บริการ</h3><br/>
+								
+								<ul class="bullet">
+                                <li><p>xxxxxxxxxxx</p></li></ul><br/>
+                                
+<!--/ 6 LOCATION /-->			<h3>สถานที่ตั้ง</h3><br/>
+                                
+								<ul class="bullet"><li><p>โรงพยาบาลกรุงสยามเซนต์คาร์ลอส ชั้น xxxxxxx</p></li></ul><br/>
+                                
+<!--/ 7 CONTACT US /-->			<h3>การนัดหมายและติดต่อสอบถาม</h3><br/>
+
+                                <ul class="bullet">
+								<li><p>โทรศัพท์: 0-2975-6700 ต่อ xxxxxxxxx</p></li>
+                                <li><p>โทรสาร: 0-2975-6737</p></li>
+                                
+<li><h4>E-mail: <a href="mailto:stcarlos@stcarlos.com">stcarlos@stcarlos.com</a></h4>
+</li>                               <li><p>Website: www.stcarlos.com</p></li></ul><br/>
+
+				
+
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+    	</div><!-- end main wrap-->
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+    <? include"../Include/footer.php" ?>
+</body>
+
+</html>

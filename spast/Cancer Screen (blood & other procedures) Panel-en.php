@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Cancer Screen (blood & other procedures) Panel</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+    <link rel="stylesheet" href="css/style.css">
+      <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.1.1.js"></script>
+    <script src="js/bgstretcher.js"></script>
+    <script src="js/forms.js"></script>
+
+    <script>
+	$(document).ready(function() {	
+      //  Initialize Backgound Stretcher
+      $('BODY').bgStretcher({
+        images: ['images/slide-1.jpg'], 
+		imageWidth: 1600, 
+		imageHeight: 964, 
+		resizeProportionally:true	
+       });	   	
+    });	
+	
+    </script>
+
+    <!--[if lt IE 8]>
+   <div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+ 	<![endif]-->
+    <!--[if lt IE 9]>   
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+   <script src="js/html5shiv.js"></script>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>  
+  <![endif]-->
+
+    </head>
+    <body>
+<div class="extra-block"> 
+      <!--==============================row-top=================================-->
+
+<?include"lang.php"?>
+  </div>
+      
+      <!--==============================header=================================-->
+      
+   <header>
+    <div class="row-nav">
+        <div class="main">
+        <h1 class="logo"><a href="index.html"><img alt="Eni Gma" src="images/logo.png"></a></h1>
+        <nav>
+           <ul class="menu">
+			<li class="###"><a href="index-en.php">Home</a></li>
+            <li class=""><a href="About-Us-en.php">About Us</a></li>
+            <li class="###"><a href="Services-en.php">Services</a></li>
+            <li class="current"><a href="Package-en.php">Package</a></li>
+            <li class=""><a href="Contacts-en.php ">Contacts</a></li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
+      </div>
+      </div>
+  </header>
+  
+  <!--==============================content=================================-->
+  
+<section id="content">
+  
+
+
+  <!--==============================content=================================-->
+
+  <div class="main-block">
+    <div class="container_12">
+	<h3>Cancer Screen (blood & other procedures) Panel</h3>
+	 <h4>Tumor markers or sometimes called onco-fetal proteins are mainly protein substances that tend to be detected in blood in high levels for certain cancer types. However, they also tend to be high in some benign conditions. Thus, tumor markers must be used in combination with other
+diagnostics tests.</h4>
+<center><h4>For Men</h4></center><br>
+<ul class="bullet3">
+<li>C-Reactive Protein (CRP)</li>
+<ul class="bullet2"><li>CRP is used to identify the presence of inflammation and to monitor response to a treatment. C-reactive protein is a special type of protein produced by the liver that is only present during episodes of acute inflammation. It is usually tested when there is a suspicion of an ongoing
+inflammatory process in the body such as rheumatoid arthritis, rheumatic fever, tuberculosis, pneumococcal pneumonia, autoimmune disorders such as SLE, inflammatory bowel disease and cancer. CRP may also rise during the last half of pregnancy or with the use of oral contraceptives. It is also used to check for the presence of infection especially after surgery. Recent studies have suggested that CRP may also be elevated in heart attacks or in cases of myocardial infarction.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Fecal Occult Blood Test (FOBT)</li>
+<ul class="bullet2"><li>Sometimes cancers or polyps bleed, and the FOBT can detect tiny amounts of blood in the stool. If this test detects blood, other tests are needed to find the source of the blood because benign conditions like hemorrhoids or anal fissures can also cause blood in the stool.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Ferritin</li>
+<ul class="bullet2"><li>Ferritin, also known as serum ferritin level, is basically tested to know your body’s ability to store iron for later use. It is usually done when there is suspicion that you may not have enough iron or too much iron in your system. Any inflammatory disorder can raise the ferritin level. Conditions that may result in higher-than-normal levels include Hodgkin's lymphoma as well as alcoholic liver disease, hemochromatosis, hemolytic anemia, and megaloblastic anemia. On the other hand, conditions that may result in lower-than-normal levels include chronic gastrointestinal bleeding, heavy menstrual bleeding and iron deficiency anemia. Anemia resulting from a chronic disease may also give rise to abnormal results.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Lactic Dehydrogenase (LDH)</li>
+<ul class="bullet2"><li>LDH is primarily elevated in cases of lymphoma, seminoma, acute leukemia, and metastatic carcinoma (cancer that has spread in other parts of body). Abnormal levels are also seen in cases of hepatitis and myocardial infarction (heart attack).</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Gamma-Glutamyl Transferase (GGT)</li>
+<ul class="bullet2"><li>GGT is also known as Gamma-glutamyl transpeptidase (GGTP). It is used to simply screen for liver disease; alcohol abuse; and to differentiate between liver and bone disease as a cause for elevated alkaline phosphatase (ALP). Commonly, it is tested if your doctor thinks that you have
+symptoms of a liver disorder including hepatic (liver) tumor. Other conditions that may give rise to greater-than-normal levels include: congestive heart failure, cholestasis (congestion of the bile ducts), cirrhosis, hepatic (liver) ischemia (blood deficiency), hepatic (liver) necrosis (tissue
+death), and hepatitis. It is also used to detect the presence of drugs in the body that are toxic to the liver.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Alpha Feto protein (AFP)</li>
+<ul class="bullet2"><li>Alpha-fetoprotein (AFP) is elevated in cases of primary liver cancer or germ cell cancer (cancer that begins in the cells that give rise to eggs or sperm) of the ovary or testicle. Only rarely do patients with other types of cancer (such as stomach cancer) have elevated levels of AFP.
+Abnormal levels of AFP can also be seen in: benign liver conditions (cirrhosis or hepatitis), ataxia telangiectasia; Wiscott-Aldrich syndrome; and pregnancy.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Carcinoembryonic Antigen (CEA)</li>
+<ul class="bullet2"><li>Carcinoembryonic antigen (CEA) is used in monitoring colorectal cancer, especially when the disease has spread (metastasized) in other parts of the body. It is also used after treatment to check for recurrence of colorectal cancer but it is increased in other types of cancer namely: melanoma; lymphoma; and cancers of the breast, lung, pancreas, stomach, cervix, bladder, kidney, thyroid, liver, and ovary. Abnormal levels of CEA can also be seen in other conditions such as inflammatory bowel disease, pancreatitis, and liver disease. Tobacco use can also contribute to higher-than-normal levels of CEA.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Carbohydrate Antigen (CA19-9)</li>
+<ul class="bullet2"><li>CA 19-9 is primarily seen in patients with colorectal cancer but it can also be seen in cases of pancreatic, stomach, and bile duct cancer. Research showed that a markedly increased level of CA 19-9 in cases of pancreatic cancer tend to indicate an advanced stage of the disease.
+Abnormal levels of CA 19–9 can also be seen in: gallstones, pancreatitis, cirrhosis of the liver, and cholecystitis.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Prostate Specific Antigen (PSA)</li>
+<ul class="bullet2"><li>Prostate-specific antigen (PSA) is elevated in the blood of men with benign prostate conditions, such as prostatitis (inflammation of the prostate) and benign prostatic hyperplasia (BPH), or with a malignant (cancerous) growth in the prostate. Thus, an elevated PSA level may indicate
+that other tests are necessary to determine whether cancer is present.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Prostatic Acid Phosphatase (PAP)</li>
+<ul class="bullet2"><li>Prostatic acid phosphatase (PAP) is found at higher levels in some patients with prostate cancer, especially if the cancer is already in advance stage meaning it has spread beyond the prostate. However, PAP may also be elevated in patients who have certain benign prostate conditions or early stage cancer. Elevated PAP levels can also seen in patients with testicular cancer, leukemia, and non-Hodgkin's lymphoma, as well as other conditions such as Gaucher's disease, Paget's disease, osteoporosis, cirrhosis of the liver, pulmonary embolism, and hyperparathyroidism.</li>
+</ul></ul><br>
+
+<center><h4>For Women</h4></center><br>
+
+<ul class="bullet">
+
+<li>C-Reactive Protein (CRP)</li>
+<li>Fecal Occult Blood Test (FOBT)</li>
+<li>Ferritin</li>
+<li>Lactic Dehydrogenase LDH)</li>
+<li>Gamma-Glutamyl Transferase (GGT)</li>
+<li>Alpha Feto protein (AFP)</li>
+<li>Carcinoembryonic Antigen (CEA)</li>
+<li>Carbohydrate Antigen (CA19-9)</li>
+<li>Mammogram</li>
+<li>Thin Pap Smear</li>
+
+</ul>
+              
+<br><br>
+
+
+<ul class="bullet3">
+<li>Carbohydrate Antigen 15-3 (CA15-3)</li>
+<ul class="bullet2"><li>CA 15–3 is used to detect advanced breast cancer in women. It is also elevated in cases of cancers of the ovary, lung, and prostate. Abnormal levels are also seen in benign breast or ovarian disease, endometriosis, pelvic inflammatory disease, and hepatitis. Pregnancy and lactation may also increase CA 15–3 levels.</li>
+</ul></ul><br>
+
+<ul class="bullet3">
+<li>Carbohydrate Antigen 125 (CA125)</li>
+<ul class="bullet2"><li>CA 125 is primarily elevated in cases of ovarian cancer. It is a very good indicator for treatment response and it also used to monitor patients for recurrence of ovarian cancer. However, it is also elevated in other types of cancer like that of the uterus, cervix, pancreas, liver, colon, breast, lung, and digestive tract. CA 125 is also abnormally elevated in other medical conditions which endometriosis, pelvic inflammatory disease, peritonitis, pancreatitis, liver disease, and any condition that inflames the pleura (the tissue that surrounds the lungs and lines the chest cavity). Menstruation and pregnancy can also increase CA 125 levels.</li>
+</ul></ul>
+
+     </div>
+  </div> 
+
+
+
+
+
+
+
+ </section>  
+ </div>
+<div class="block"> 
+     <!--==============================footer================================-->
+      <footer>
+<?include"inc-footer.php"?>
+  </footer>
+    </div>
+</body>
+</html>
+
+
+
+<!--
+
+              <h3>&nbsp;&nbsp;</h3>
+              <ul class="bullet">
+
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+<li>xxxxxxxxx</li>
+
+			  </ul>
+
+
+-->
+
+			  		<!--	  
+					<article class="grid_5">
+              <h4></h4><br>
+              <ul class="bullet">
+
+<li>2.1.4. Facial Treatments</li><ul class="bullet2">
+<li>Personalized Oriental Facial</li>
+<li>Firming and Detox Facial</li>
+
+
+
+
+			  </ul>
+              
+		</article>
+        <article class="grid_3 prefix_2">
+              <h4>&nbsp;</h4><br><br><br>	
+             
+
+<ul class="bullet2">
+<li>Natural Radiant Facial</li>
+<li>Anti-Pigmentation Facial</li>
+
+
+			  </ul></article>
+			  -->

@@ -1,0 +1,193 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Nephrology (Kidney) Center : ศูนย์ไตเทียม  :  Krung Siam St.Carlos Medical & Spa : โรงพยาบาลกรุงสยามเซนคาร์ลอส</title>
+
+<? include"../Include/style-java.php"; ?>
+
+</head>
+
+<body>
+
+
+<div class="wrap boxed">
+	<div id="header">
+        <div class="menu-wrap">
+        	<? include"../Include/head-menu-en.php" ?>
+                
+
+            </div><!-- end main menu wrap -->
+            
+            <div id="search-wrap">
+                <!-- start searchBar -->
+                <div class="search">
+                    <form class="searchForm">
+                        <input class="searchInput" title="Search" type="text" value="Start Searching...">
+                        <input class="searchBtn" name="action_results" value="Go" title="Go" type="submit">
+                    </form>
+                </div><!-- end searchBar -->
+                
+                <!-- start call information -->
+                <div class="cat">
+                    <h3>Patients Services</h3>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li>/</li>
+                            <li><a href="#">Center-Clinic</a></li>
+                            <li>/</li>
+                            
+                            <li>Nephrology (Kidney) Center</li>
+                        </ul>
+                </div><!-- end call information -->
+            </div>
+            
+        </div><!-- end menu wrap -->
+    </div><!-- end header section -->
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"center-sub-en.php"?>
+                    
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#">Nephrology (Kidney) Center</a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                <a href="../images/Center-Clinic/hemodialysis.jpg" data-rel="prettyPhoto" >
+                                    <img src="../images/Center-Clinic/hemodialysis.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+                
+<!--/ 1.1 CONTEND DETIAL /-->	<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The kidneys are essential in the urinary system which serve homeostatic functions such as the regulation of electrolytes, maintenance of acid-base balance, and regulation of blood pressure by maintaining salt and water balance. They serve the body as a natural filter of the blood, and remove wastes which are diverted to the urinary bladder. In producing urine, the kidneys excrete wastes such as urea and ammonium; the kidneys also are responsible for the reabsorption of water, glucose, and amino acids.Besides it produce hormones including erythropoietin, calcitriol, and the enzyme renin.
+</p></ul><br/>
+
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Factors that cause the performance degradation of renal function is a genetic disease such as diabetes, high blood pressure, medication or chemicals. There is also a direct renal disease.Including chronic kidney disease, kidney disease, urinary tract infections, etc.
+</p></ul><br/>
+								<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most people are not aware of the fact that kidney diseases can be silent killers. They may not show any symptoms for a long time till the situation becomes critical. It is important to recognize the symptoms of kidney diseases to catch them early. Here is a list of twelve such symptoms you should look out for:</p><br/>
+								
+								<ul class="bullet"><li><p>Changes in your urinary function</p></li>
+								<li><p>Difficulty or pain during voiding</p></li>
+								<li><p>Blood in the urine</p></li>
+								<li><p>Swelling in your hands, feet, ankles and/or your face.</p></li>
+								<li><p>Extreme fatigue and generalised weakness</p></li>
+								<li><p>Dizziness & Inability to concentrate</p></li>
+								<li><p>Feeling cold all the time</p></li>
+								<li><p>Skin rashes and itching</p></li>
+								<li><p>Ammonia breath and metallic taste</p></li>
+								<li><p>Nausea and vomiting</p></li>
+								<li><p>Shortness of breath</p></li>
+								<li><p>Pain in the back or sides</p></li>
+
+</ul></ul>	<br/>			   
+<!--/ 2 CONTEND NO.2 /-->		<h3>Services</h3><br/>
+<!--/ 2.1 SUB DETIAL /-->		<ul class="bullet"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With international standard and advanced medical technology by nephrologists and dialysis nurses.We provide diagnostic and kidney dialysis for 3 services period per day : 
+</p><br/>	
+								<ul class="bullet"><li><p>First services period 07.00 AM - 11.00 AM</p></li>
+								<li><p>Second services period 11.00 AM - 01.00 PM</p></li>
+								<li><p>Third services period 01.00 PM - 07.00 PM</p></li></ul><br/>	
+
+
+
+								
+
+                                
+
+                                
+<!--/ 6 LOCATION /-->			<h3>Location</h3><br/>
+                                
+								<ul class="bullet"><li><p>Krung Siam St.Carlos Medical and Spa, 3rd Floor</p></li></ul><br/>
+                                
+<!--/ 7 CONTACT US /-->			<h3>Appointments and Inquiries</h3><br/>
+
+                                <ul class="bullet">
+								<li><p>Tel : +66-2975-6700, 2226</p></li>
+                                <li><p>Fax : +66-2975-6737</p></li>
+                                <li><h4>E-mail: <a href="mailto:stcarlos@stcarlos.com">stcarlos@stcarlos.com</a></h4>
+</li>
+                                <li><p>Website: www.stcarlos.com</p></li></ul><br/>
+
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+    	</div><!-- end main wrap-->
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+    <? include"../Include/footer-en.php" ?>
+</body>
+
+</html>

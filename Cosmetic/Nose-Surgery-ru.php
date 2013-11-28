@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Nose Surgery : Cosmetic & Plastic Surgery  :  Krung Siam St.Carlos Medical & Spa</title>
+
+<? include"script.php"; ?>
+
+</head>
+
+<body>
+
+
+<div class="wrap boxed">
+	<div id="header">
+        <div class="menu-wrap">
+        	<!-- start menu wrap -->
+        	<div class="main-menu-wrap">
+            	<!-- start main menu -->
+            	<div class="main-menu">
+                	<?include"Menu-ru.php"?>
+                </div><!-- end main menu -->
+                
+                <!-- start logo -->
+                
+            </div><!-- end main menu wrap -->
+            
+            <div id="search-wrap2">
+                <!-- start searchBar -->
+                <div class="search">
+<?include"lang.php"?>
+                </div><!-- end searchBar -->
+                
+                <!-- start call information -->
+                <div class="cat">
+                    <h3>Head to Neck</h3>
+                        <ul>
+                            <li><a href="Cosmetic-Overview-ru.php">Главная</a></li>
+                            <li>/</li>
+                            <li><a href="#">Лечение</a></li>
+                            <li>/</li>
+							<li><a href="#">Head to Neck</a></li>
+                            <li>/</li>
+                            
+                            <li>Пластика носа </li>
+                        </ul>
+                </div><!-- end call information -->
+            </div>
+            
+        </div><!-- end menu wrap -->
+    </div><!-- end header section -->
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"Treatment-Menu-ru.php"?>
+                    
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#">Пластика носа </a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                
+                                    <img src="../images/1.7.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+<table width="615px">
+<tr>
+<td width="200" valign="top" align="left"><h3>Процедуры :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Эта хирургическая процедура может уменьшить или увеличить размер Вашего носа, изменить форму кончика носа или переносицы, уменьшить размер ноздрей, изменить угол между носом и верхней губой. Операция также может скорректировать врожденные недостатки или повреждения, полученные в результате травмы, поможет  устранить некоторые проблемы , связанные с дыханием.</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Кандидаты на операцию :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Взрослые с хорошим общим здоровьем.
+Подростки старше 14 лет. 
+</p>
+<br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Риск :</h3></td>
+<td width="15px"></td>
+<td width="400">
+<ul class="bullet">
+
+<li><p>Инфекция.</p></li>
+<li><p>Маленькие разрывы кровеносных сосудов, результатом которых могут быть постоянные крошечные красные точки.</p></li>
+<li><p>Неполное восстановление,  требующее повторной операции.</p></li> 
+
+
+</ul>
+
+<br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Операция :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Длительность: 1-2 часа.
+Обезболивание: общее или местное с седативными препаратами.
+
+
+</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Пообочные эффекты. :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Временный дискомфорт, синяки вокруг глаз и носа, небольшие подкравливания и заложенность носа.
+
+
+
+</p><br/></td>
+</tr>
+
+<tr>
+<td width="200" valign="top" align="left"><h3>Восстановительный период :</h3></td>
+<td width="15px"></td>
+<td width="400"><p>Возвращение на работу через 1-2 дня.
+Усиление физической активности: через 2-3 недели.
+Окончательный результат: через год или больше.
+<br>
+    Обращаем внимание, что этот текст является только общим руководством. Все детали лечения и операции должны быть обсуждены только во время консультации с Вашим лечащим врачом.
+
+
+</p><br/></td>
+</tr>
+
+
+
+</table>
+				   
+		
+
+
+								
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+
+
+
+
+    	</div><!-- end main wrap-->
+
+
+
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+     <div id="footer">
+    	<?include"footer.php"?>
+        
+    </div><!-- end footer -->
+    
+</div>
+<div class="clear"></div>
+<div id="footerShadow" class="boxed"><div class="shadowHolderflat"><img src="images/big-shadow.png" alt=""></div></div>
+</body>
+
+</html>
+
+<!--
+<ul class="bullet">
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li> 
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li>
+<li><p>xxxxxxx</p></li> 
+</ul>
+-->

@@ -1,0 +1,11 @@
+<div class="outerOneFourth last">
+                <h3></h3><table><tr><td align="center">
+                <a href="mission.php" class="buttonPro blue">พันธกิจและวิสัยทัศน์</a><br/>
+				<a href="factsheet.php" class="buttonPro blue">ข้อมูลโรงพยาบาล</a> 
+				<!--
+				<a href="#" class="buttonPro blue">xxxxxx</a> 
+				-->
+				</td>
+				</tr>
+				</table>
+            </div>

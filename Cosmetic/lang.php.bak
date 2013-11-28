@@ -1,0 +1,13 @@
+                <form  class="searchForm">
+				<a href="##.php"><img width="40" height="20"  src="../images/th.jpg" alt=""></a>
+				<a href="../Cosmetic-Overview.php"><img width="40" height="20"  src="../images/en.jpg" alt=""></a>
+				<a href="../Cosmetic-Overview-ru.php"><img width="40" height="20"  src="../images/ru.jpg" alt=""></a>
+				<a href="##.php">
+<img width="40" height="20"  src="../images/JA.jpg" alt=""></a>
+<a href="##.php">
+<img width="40" height="20"  src="../images/CH.jpg" alt=""></a>
+<a href="##.php">
+<img width="40" height="20"  src="../images/FR.jpg" alt=""></a>
+                    
+					
+                </form>

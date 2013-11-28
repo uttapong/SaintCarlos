@@ -1,0 +1,174 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Health Check-up & Screening Center : ศูนย์ตรวจสุขภาพ   :  Krung Siam St.Carlos Medical & Spa : โรงพยาบาลกรุงสยามเซนคาร์ลอส</title>
+<meta name="description" content="เราให้บริการตรวจสุขภาพพนักงานก่อนเข้างาน ตรวจสุขภาพประจำปี ตรวจพนักงานกลุ่มเสี่ยงขณะทำงาน ตรวจเลือก ตรวจน้ำตาล เบาหวาน" />
+<meta name="keywords" content="ตรวจสุขภาพ,ตรวจเลือด,ตรวจสุขภาพประจำปี,ตรวจน้ำตาล,ตรวจเบาหวาน" />
+
+<? include"../Include/style-java.php"; ?>
+
+</head>
+
+<body>
+
+<? include"../Include/header.php" ?>
+   
+        </div>
+    </div><!-- end header section -->
+    <div class="clear"></div>
+    
+    <!-- start main -->
+    <div id="main">
+    	<!-- start main wrap -->
+        <div class="main-wrap">
+			<!-- start main blog -->
+        	<div id="blog">
+            	<!-- start sidebar -->
+				<div class="sidebar">
+                    <?include"center-sub.php"?>
+                    
+                    
+                    
+                    
+                    <!--
+                    <div id="popularPost">
+                        <h3>Popular Post</h3>
+                        <ul>
+                            <li>
+                                <img src="../images/pPost1.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost2.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                            <li>
+                                <img src="../images/pPost3.jpg" alt="">
+                                <p><a href="#">Non Eleifend Ligula Metus Vel Magna vitae lacus</a></p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    -->
+                    
+            	</div><!-- end sidebar -->
+            	 <!-- start call information -->
+                <div class="cat">
+                        <ul>
+                            <li><a href="#" title="หน้าแรก">หน้าแรก</a></li>
+                            <li>/</li>
+                            <li><a href="#" title="ศูนย์รักษาโรค">ศูนย์รักษาโรค</a></li>
+                            <li>/</li>
+                            <li><a href="#" title="ศูนย์ตรวจสุขภาพ (Medical check up)">ศูนย์ตรวจสุขภาพ (Medical check up)</a></li>
+                        </ul>
+                </div><!-- end call information -->
+                <!-- start blog post -->
+            	<div class="blog-post last">
+                	<!-- blog post 1 -->
+                	<div class="post">
+                        <h2><a href="#" title="ศูนย์ตรวจสุขภาพ">ศูนย์ตรวจสุขภาพ (Medical check up)</a></h2>
+                        <div class="blog-dash-line"></div>
+                        <div class="imageBlog">
+                            <span class="imageWrap">
+                                <a href="../images/Center-Clinic/check-up.jpg" data-rel="prettyPhoto" >
+                                    <img src="../images/Center-Clinic/check-up.jpg" alt="">
+                                    <span><span></span></span>
+                                </a>           
+                            </span>
+                            <span class="shadowHolder"><img src="../images/big-shadow.png" alt=""></span>
+                        </div>
+                        <div class="">
+                            <!-- body -->
+							<!-- 2/3 column -->
+            <div class="outerTwoThirds">
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โรงพยาบาลกรุงสยามเซนต์คาร์ลอสได้รับอนุญาตจากกรมการจัดหางาน กระทรวงแรงงาน ให้บริการตรวจสุขภาพคนงานที่จะไปทำงานต่างประเทศตั้งแต่เริ่มเปิดดำเนินการ โดยยึดถือพันธกิจเช่นเดียวกับผู้ป่วยทั่วไป ปัจจุบันศูนย์ตรวจสุขภาพ (Medical check up) โรงพยาบาลกรุงสยามเซนต์คาร์ลอส เป็นหน่วยงานที่ได้รับการยอมรับจากบริษัทจัดหาแรงงานไปทำงานต่างประเทศ รวมทั้งบริษัทต่างประเทศที่ต้องการแรงงานไทย จากประวัติการทำงานที่ผ่านมาของศูนย์ตรวจสุขภาพ (Medical check up) ผู้ที่ได้รับการตรวจสุขภาพเพื่อไปทำงานต่างประเทศ ไม่เคยมีปัญหาสุขภาพตลอดการทำงานตามที่บริษัทกำหนด</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นอกจากการให้บริการตรวจสุขภาพข้างต้นแล้ว ปัจจุบันแผนกตรวจสุขภาพ (Medical check up) ยังให้บริการตรวจสุขภาพพนักงานก่อนเข้างาน ตรวจสุขภาพประจำปี ตรวจพนักงานกลุ่มเสี่ยงขณะทำงาน จนได้รับความไว้วางใจจากบริษัทโดยรอบโรงพยาบาล และบริษัทคู่สัญญาเข้ามาใช้บริการอย่างสม่ำเสมอ</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โรงพยาบาลกรุงสยามเซนต์คาร์ลอสได้ผ่านการรับรองจากสถาบันพัฒนาและรับรองมาตรฐานโรงพยาบาลขั้นที่ 2 (HA step 2) นอกจากนี้แผนกห้องตรวจปฏิบัติการยังได้รับการตรวจสอบมาตรฐานจากกรมวิทยาศาสตร์การแพทย์ และมีการตรวจเยี่ยมจากคณะกรรมการกองทุนทดแทนเป็นประจำทุกปี ทั้งหมดนี้คือสิ่งที่ยืนยันได้ว่า โรงพยาบาลกรุงสยามเซนต์คาร์ลอสได้ให้การดูแลผู้ป่วยทั่วไปและตรวจสุขภาพคนหางานที่จะไปทำงานต่างประเทศได้มาตรฐานตามที่ตั้งพันธกิจขององค์กรไว้ทุกประการ</p></ul><br/>
+               
+				   
+<!--/ 2 CONTEND NO.2 /-->		<h3>การบริการด้านการตรวจสุขภาพ</h3><br/>
+								<ul class="bullet"><p>ศูนย์ตรวจสุขภาพ โรงพยาบาลกรุงสยามเซนต์คาร์ลอสให้บริการตรวจสุขภาพพนักงานให้แก่บริษัททั่วประเทศ</p><ul>
+<!--/ 2.1 SUB DETIAL /-->		<li><p>ตรวจสุขภาพก่อนเข้างาน</p></li>
+								<li><p>ตรวจสุขภาพประจำปี</p></li>
+								<li><p>ตรวจสุขภาพแรงงานต่างด้าว ได้แก่ พม่า กัมพูชา ลาว และเวียดนาม</p></li>
+								<li><p>ตรวจสุขภาพคนหางานที่จะไปทำงานต่างประเทศ</p></li></ul></ul><br/>
+
+<h3>รายการตรวจสุขภาพที่ให้บริการ</h3><br/>
+                                <ul class="bullet"><li><p>การตรวจสุขภาพทั่วไป </p></li> 
+								<li><p> การตรวจสมบูรณ์เม็ดเลือด (CBC) </p></li>
+								<li><p>การตรวจปัสสาวะ (UA) </p></li>
+								<li><p> การตรวจระดับน้ำตาลในเลือด (FBS)</p></li>
+								<li><p>การตรวจไขมันคลอเลสเตอรอล (Cholesterol)</p></li></ul><br/>
+								<h3>การตรวจสุขภาพรายการอื่นๆ</h3><br/>
+								<ul class="bullet"><li><p>การเอกเรย์ปอดและช่องอก (Chest x-ray)</p></li>
+                                <li><p>การอัลตร้าซาวน์ (Ultrasound)</p></li>
+								<li><p>การตรวจกราฟหัวใจ (EKG)</p></li>
+								<li><p>การทำ CT scan</p></li>
+								<li><p>การตรวจความหนาแน่นกระดูก (BMD)</p></li>
+								<li><p>การตรวจมะเร็งเต้านม (Mammogram)</p></li>
+                                <li><p>การตรวจมะเร็งปากมดลูกแบบ Pap smear</p></li></ul><br/>
+								<h3>การตรวจทางอาชีวเวชศาสตร์</h3><br/>
+								<p>สำหรับพนักงานที่มีความเสี่ยงในการทำงานจะได้รับการตรวจสุขภาพตามลักษณะงาน หรือตามลักษณะปัจจัยเสี่ยงที่พนักงานอาจได้รับ</p>
+								<ul class="bullet"><li><p>การตรวจสมรรถภาพปอด (Spirometry)</p></li>
+								<li><p>การตรวจสอบสมรรถภาพการได้ยิน (Audiogram)</p></li>
+								<li><p>การตรวจสายตาอาชีวอนามัย (OC)</p></li>
+								<li><p>การตรวจสารโลหะหนัก  เช่น สารตะกั่ว อลูมิเนียม ทองแดง เป็นต้น</p></li>
+								<li><p>การตรวจสารระเหย เช่น Benzene, Xylene, Acetone เป็นต้น</p></li></ul><br/>
+                                
+<!--/ 5 SERVICE HOUR /-->		<h3>เวลาให้บริการ</h3><br/>
+								<ul class="bullet">
+								<li><p>วันจันทร์-วันศุกร์			08.00 – 19.00 น.</p></li>
+                                <li><p>วันเสาร์–อาทิตย์และวันนักขัตฤกษ์     	08.00 – 17.00 น.</p></li></ul><br/>
+                                
+<!--/ 6 LOCATION /-->			<h3>สถานที่ตั้ง</h3><br/>
+                               <ul class="bullet"> 
+								<li><p>โรงพยาบาลกรุงสยามเซนต์คาร์ลอส  ชั้น 1 </p></li></ul><br/>
+                                
+<!--/ 7 CONTACT US /-->			<h3>การนัดหมายและติดต่อสอบถาม</h3><br/>
+                               <ul class="bullet"><li><p>โทรศัพท์ : 0-2975-6700 ต่อ 6115,1139,1153</p></li>
+                                <li><p>โทรสาร: 0-2975-6737</p></li>
+<li><h4>E-mail: <a href="mailto:stcarlos@stcarlos.com">stcarlos@stcarlos.com</a></h4>
+</li>                              <li><p><h4>Website: <a href="http://www.stcarlos.com">http://www.stcarlos.com</a></h4></p></li></ul><br/>
+
+
+
+
+
+
+
+
+
+
+				</div>
+            <!-- end 2/3 column -->
+            
+            <div class="clear20"></div>
+
+                        </div>
+                     </div><!-- end blog post 1 -->
+                    
+                    <div class="clear20"></div>
+                    
+                    
+                                        
+                    
+
+
+
+                </div><!-- end blogpost -->            
+            </div><!-- end main blog -->
+    	</div><!-- end main wrap-->
+    </div><!-- end main-->
+
+    
+    <div class="clear20"></div>
+         
+	
+    
+    <!-- start footer -->
+    <? include"../Include/footer.php" ?>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<div id="categories">
+                        <h3>ติดต่อเรา</h3>
+                        <ul>
+                            <li>
+                                <p><a href="map.php">แผนที่โรงพยาบาล</a></p>
+                            </li>
+                            <li>
+                                <p><a href="women.php">นัดหมายแพทย์</a></p>
+                            </li>
+                            <li>
+                                <p><a href="cosmetic.php">ติดต่อสอบถาม</a></p>
+                            </li>
+                            <li>
+                                <p><a href="hemodialysis.php">แนะนำบริการ</a></p>
+                            </li>
+                           
+
+                        </ul>
+                    </div>

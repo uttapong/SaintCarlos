@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Services</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+    <link rel="stylesheet" href="css/style.css">
+     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.1.1.js"></script>
+    <script src="js/bgstretcher.js"></script>
+    <script>
+	$(function(){
+      //  Initialize Backgound Stretcher
+      $('BODY').bgStretcher({
+        images: ['images/slide-2.jpg'], 
+		imageWidth: 1600, 
+		imageHeight: 964, 
+		resizeProportionally:true	
+       });	
+    });
+    </script>
+
+    <!--[if lt IE 8]>
+   <div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+ 	<![endif]-->
+    <!--[if lt IE 9]>   
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+   <script src="js/html5shiv.js"></script>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>  
+  <![endif]-->
+
+    </head>
+    <body>
+<div class="extra-block1"> 
+      <!--==============================row-top=================================-->
+
+<?include"lang.php"?>
+  </div>
+      
+      <!--==============================header=================================-->
+      
+     <header>
+    <div class="row-nav">
+        <div class="main">
+        <h1 class="logo"><a href="index-en.html"><img alt="Eni Gma" src="images/logo.png"></a></h1>
+        <nav>
+          <ul class="menu">
+			<li class="###"><a href="index-ru.php">Главная</a></li>
+            <li class=""><a href="About-Us-ru.php">O нас</a></li>
+            <li class="current"><a href="Services-ru.php">Услуги</a></li>
+            <li class=""><a href="Package-ru.php">Предложения</a></li>
+            <li class=""><a href="Contacts-ru.php ">Контакты</a></li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
+      </div>
+      </div>
+  </header>
+  
+    <!--==============================content=================================-->
+    <section id="content">  
+  
+    <div class="main-block">
+    <div class="container_12">
+          <div class="wrapper">
+        <article class="grid_4">             
+              <figure class="img-rounded img-indent"><img src="images/page4-img3.jpg" alt="" /> </figure>
+              <h4><a href="Body-Treatments-ru.php">Процедуры для тела</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>стройность и тонус</a></li>
+                <li>травяное обертывание для выведения токсинов</a></li>
+                <li>«крунг сиам» расслабление</a></li>
+                <li>фангошин</a></li>
+				<li>спа бадабум (аппликации из ламинарии)</a></li>
+				
+
+				<li>антицеллюлитный растирочный массаж</a></li>
+				<li>скраб с солями мертвого моря</a></li>
+				<li>скраб « тропическая стройность»</a></li>
+				<li>тепловые аппликации тайских трав</a></li>
+				<li>ароматерапия с камневыми аппликациями</li>
+				<li>экзотика азии</li>
+
+              </ul>            
+
+         </article>
+
+        <article class="grid_4">
+             
+              <figure class="img-rounded img-indent"><img src="images/page4-img5.jpg" alt="" /> </figure>
+              <h4><a href="Medical-Equipment-ru.php">Аппаратные лечебные процедуры</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>биостатическая терапия (вsт)</a></li>
+                <li>прогностатическая диагностика (psd) </a></li>
+                <li>аурастатическая диагностика(asd) </a></li>
+                <li>целлюлимф</a></li>
+
+              </ul>   
+			   <br>           
+            <h4><a href="Hands&Feet-Treatment-ru.php">Процедуры "руки - ноги"</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>травяные ванны"руки - ноги"</li>
+                <li>массаж ступней</li>
+                
+             
+              </ul> <br>
+			  
+         </article>
+
+        <article class="grid_4">
+             
+              <figure class="img-rounded img-indent"><img src="images/page4-img4.jpg" alt="" /> </figure>
+              <h4><a href="Body-Massage-ru.php">Массажи</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>тайский массаж</a></li>
+                <li>шведский массаж</a></li>
+                <li>глубокий мышечный массаж</a></li>
+                <li>фито-арома массаж</a></li>
+
+
+				<li>краниосакральный массаж</a></li>
+				<li>аюр ломи массаж</a></li>
+
+              </ul>  <br>  
+			               <h4><a href="Hair-Treatment-ru.php">Лечение волос</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>горячие масляные обертывания</li><br><br><br><br><br><br><br><br><br><br></ul>
+         </article>
+
+		  <article class="grid_4">   
+
+             <h4><a href="Medical-Spa-ru.php">Лечебные процедуры</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>гидроколоно терапия</a></li>
+                <li>кислородотерапия</a></li>
+                <li>цветовая терапия</a></li>
+                <li>анализ композиции телаА</a></li>
+				<br/>
+				<br/>
+				<br/>
+              </ul>            
+         </article>
+
+        <article class="grid_4">
+
+            <h4><a href="Spa-Facial-Therapies-ru.php">Процедуры для лица</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>восточная процедура для лица</a></li>
+                <li>моделирующая и выводящая токсины процедура</a></li>
+                <li>процедура «липо+»(нехирургическая подтяжка)</a></li>
+                <li>антиугревая процедура</a></li>
+
+
+				<li>отбеливающая и восстанавливающая процедура</a></li>
+				<li>процедура «природное сияние»</a></li>
+
+
+
+              </ul>            
+         </article>
+
+        <article class="grid_4">
+
+             <h4><a href="Hydro-Therapy-ru.php">Водные процедуры</a></h4>
+              <p></p>
+                <ul class="bullet">
+                <li>ботаническая ванна</a></li>
+                <li>ванна с экстрактом лотоса</a></li>
+                <li>ванна Клеопатры</a></li>
+				<li>гидрованна</li>
+              </ul>
+         </article>
+
+
+      </div>
+     </div>
+  </div>
+  
+ <section> 
+
+  
+ </div>
+<div class="block"> 
+      <!--==============================footer================================-->
+      <footer>
+<?include"inc-footer.php"?>
+  </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+
+<!--
+<div class="footer-wrap">
+        	
+            <!-- Pages --><!--
+        	<div class="outerOneFourth">
+                <div class="title"><h4>Pages</h4></div>
+                <div class="clear20"></div>
+                <ul class="bullet4">
+                    <li><p><a href="#">Lorem ipsum dolor sit amet</a></p></li>
+                    <li><p><a href="#">Fusce accumsan mollis eros</a></p></li>
+                    <li><p><a href="#">Nullam quis massa</a></p></li>
+                    <li><p><a href="#">Ut scelerisque hendrerit</a></p></li>
+                    <li><p><a href="#">Vivamus imperdiet nibh feugiat</a></p></li>
+                    <li><p><a href="#">Integer eu magna sit amet</a></p></li>
+                    <li><p><a href="#">Cum sociis natoque penatibus</a></p></li>
+                </ul>
+            </div><!-- end pages -->
+            
+            <!-- twitter --><!--
+        	<div class="outerOneFourth">
+                <div class="title"><h4>Pages</h4></div>
+                <div class="clear20"></div>
+                <ul class="bullet4">
+                    <li><p><a href="#">Lorem ipsum dolor sit amet</a></p></li>
+                    <li><p><a href="#">Fusce accumsan mollis eros</a></p></li>
+                    <li><p><a href="#">Nullam quis massa</a></p></li>
+                    <li><p><a href="#">Ut scelerisque hendrerit</a></p></li>
+                    <li><p><a href="#">Vivamus imperdiet nibh feugiat</a></p></li>
+                    <li><p><a href="#">Integer eu magna sit amet</a></p></li>
+                    <li><p><a href="#">Cum sociis natoque penatibus</a></p></li>
+                </ul>
+               
+            </div><!-- end twitter -->
+            
+           	<!-- about us --><!--
+        	<div class="outerOneFourth">
+                <div class="title"><h4>About Us</h4></div>
+                <div class="clear"></div>
+                <div id="about-us">
+                    <p><img src="images/building.png" alt="" class="fl">Sed fringilla dui id ante volutpat ut pellentesque lacus semper. 
+                    Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. 
+                    Praesent et volutpat urna. Sed ipsum dolor.</p>
+                    
+                </div>
+            </div><!-- end about us -->
+            
+            <!-- contact --><!--
+        	<div class="outerOneFourth last">
+                <div class="title"><h4>Contact</h4></div>
+                
+                <div class="clear20"></div>
+                    <ul class="bullet4">
+                    <li><p><a href="#">Lorem ipsum dolor sit amet</a></p></li>
+                    <li><p><a href="#">Fusce accumsan mollis eros</a></p></li>
+                    <li><p><a href="#">Nullam quis massa</a></p></li>
+                    <li><p><a href="#">Ut scelerisque hendrerit</a></p></li>
+                    <li><p><a href="#">Vivamus imperdiet nibh feugiat</a></p></li>
+                    <li><p><a href="#">Integer eu magna sit amet</a></p></li>
+                    <li><p><a href="#">Cum sociis natoque penatibus</a></p></li>
+                </ul>
+                </div>
+                <div class="clear"></div>
+            </div><!-- end contact --><!--
+            
+        </div><!--
+		<div class="clear"></div>
+
+        <!-- start post footer -->
+        <div class="post-footer">
+            <div class="post-footer-wrap">
+            <p class="fl">Copyright 2011. All Right Reserved.</p>
+            <p class="fr">
+                <a href="#">Home </a>
+                <a href="#">Treatments & Procedures</a> 
+                <a href="#">Our Package</a> 
+                
+                <a href="#">Contact Us</a></p>
+            </div>
+        </div><!-- end post footer -->

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vertical Slider - Jssor Slider, Slideshow</title>
+</head>
+<body style="font-family:Arial, Verdana;background-color:#fff;">
+    <script>
+        //Buy Jssor Slider License
+        //$10 for Jssor Slider jQuery Plugin http://codecanyon.net/item/jssor-slider-jquery-plugin-touch-responsive/5245438?ref=jssor
+        //$10 for Jssor Slider No-jQuery Version http://codecanyon.net/item/jssor-slider-nojquery-version-touch-responsive/2797680?ref=jssor
+        //full javascript source code
+        //390+ caption transitions
+        //360+ slideshow transitions
+        //25+ professional themes + growing
+        //javascript compression tool
+        //license included
+        //free upgrades, free future versions
+        //free support
+    </script>
+    <script type="text/javascript" src="../js/jssor.slider.min.js"></script>
+    <script>
+        jssor_slider1_starter = function (containerId) {
+            var jssor_slider1 = new $JssorSlider$(containerId, {
+                $ShowLoading: true,                                 //[Optional] Show loading screen or not default value is false
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $PlayOrientation: 2,                                //[Optional] Orientation to play slide (for auto play, navigation), 1 horizental, 2 vertical, default value is 1
+                $DragOrientation: 2,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+
+                $DirectionNavigatorOptions: {
+                    $Class: $JssorDirectionNavigator$,              //[Requried] Class to create direction navigator instance
+                    $ChanceToShow: 2                                //[Required] 0 Never, 1 Mouse Over, 2 Always
+                }
+            });
+        };
+    </script>
+    <!-- Jssor Slider Begin -->
+    <div id="slider1_container" class="slider1" style="position: relative; top: 0px; left: 0px; width: 600px;
+        height: 300px;">
+
+        <!-- Loading Screen -->
+        <div u="loading" style="position: absolute; top: 0px; left: 0px;">
+            <div style="filter: alpha(opacity=70); opacity:0.7; position: absolute; display: block;
+                background-color: #000000; top: 0px; left: 0px;width: 100%;height:100%;">
+            </div>
+            <div style="position: absolute; display: block; background: url(../img/loading.gif) no-repeat center center;
+                top: 0px; left: 0px;width: 100%;height:100%;">
+            </div>
+        </div>
+
+        <!-- Slides Container -->
+        <div u="slides" style="position: absolute; left: 0px; top: 0px; width: 600px; height: 300px;
+            overflow: hidden;">
+            <div><img u="image" src="../img/landscape/01.jpg" /></div>
+            <div><img u="image" src="../img/landscape/02.jpg" /></div>
+            <div><img u="image" src="../img/landscape/03.jpg" /></div>
+            <div><img u="image" src="../img/landscape/04.jpg" /></div>
+            <div><img u="image" src="../img/landscape/05.jpg" /></div>
+            <div><img u="image" src="../img/landscape/06.jpg" /></div>
+            <div><img u="image" src="../img/landscape/07.jpg" /></div>
+            <div><img u="image" src="../img/landscape/08.jpg" /></div>
+        </div>
+        
+        <!-- DirectionNavigator Skin Begin -->
+        <style>
+            .slider1 .al, .slider1 .ar, .slider1 .aldn, .slider1 .ardn, .slider1 .alhv, .slider1 .arhv, .slider1 .aldn, .slider1 .ardn
+            {
+            	position: absolute;
+            	cursor: pointer;
+            	display: block;
+                background: url(../img/sprite-09.png) no-repeat;
+                overflow:hidden;
+                opacity: .3; filter:alpha(opacity=30);
+            }
+            .slider1 .al, .slider1 .alhv, .slider1 .aldn { background-position: 0px -50px; }
+            .slider1 .ar, .slider1 .arhv, .slider1 .ardn { background-position: -50px -50px; }
+
+            .slider1 .al:hover, .slider1 .alhv { opacity: .6; filter:alpha(opacity=60); }
+            .slider1 .ar:hover, .slider1 .arhv { opacity: .6; filter:alpha(opacity=60); }
+            
+            .slider1 .aldn { pacity: .2; filter:alpha(opacity=20); }
+            .slider1 .ardn { pacity: .2; filter:alpha(opacity=20); }
+        </style>
+        <!-- Arrow Left -->
+        <span u="arrowleft" class="al" style="width: 50px; height: 50px; top: 8px; left: 275px;">
+        </span>
+        <!-- Arrow Right -->
+        <span u="arrowright" class="ar" style="width: 50px; height: 50px; bottom: 8px; left: 275px">
+        </span>
+        <!-- DirectionNavigator Skin End -->
+        <a style="display: none" href="http://slideshow.jssor.com">Image Slider</a>
+        <!-- Trigger -->
+        <script>
+            jssor_slider1_starter('slider1_container');
+        </script>
+    </div>
+    <!-- Jssor Slider End -->
+</body>
+</html>

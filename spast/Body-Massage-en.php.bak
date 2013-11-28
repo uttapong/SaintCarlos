@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Body Massage</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.1.1.js"></script>
+    <script src="js/bgstretcher.js"></script>
+    <script>
+	$(function(){
+      //  Initialize Backgound Stretcher
+      $('BODY').bgStretcher({
+        images: ['images/slide-2.jpg'], 
+		imageWidth: 1600, 
+		imageHeight: 964, 
+		resizeProportionally:true	
+       });	
+    });
+    </script>
+
+    <!--[if lt IE 8]>
+   <div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+ 	<![endif]-->
+    <!--[if lt IE 9]>   
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+   <script src="js/html5shiv.js"></script>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>  
+  <![endif]-->
+
+    </head>
+    <body>
+<div class="extra-block1"> 
+      <!--==============================row-top=================================-->
+
+<?include"lang.php"?>
+  </div>
+      
+      <!--==============================header=================================-->
+      
+      <header>
+    <div class="row-nav">
+        <div class="main">
+        <h1 class="logo"><a href="index.html"><img alt="Eni Gma" src="images/logo.png"></a></h1>
+        <nav>
+          <ul class="menu">
+			<li class="###"><a href="index-en.php">Home</a></li>
+            <li class=""><a href="About-Us-en.php">About Us</a></li>
+            <li class="current"><a href="Services-en.php">Services</a></li>
+            <li class="###"><a href="Package-en.php">Package</a></li>
+            <li class=""><a href="Contacts-en.php ">Contacts</a></li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
+      </div>
+      </div>
+  </header>
+  <!--==============================content=================================-->
+    <section id="content">
+  
+    <div class="main-block policy">
+    <div class="main">
+      <h3>Body Massage</h3>
+
+<h4>Thai Massage</h4>
+<p>Thai Massage is one of the ancient healing arts of traditional Thai medicine. Thai massage is a very complex sequence soft tissue pressing, stretching, twisting and joint manipulation. Thai massage is based on the intrinsic energy flow and energy balance theory of health and healing. Thai massage is unique in its ability to preserve youthfulness. Thai Massage enhances the mobility and flexibility of the body. It balances the body’s need for movement and stretching and produces the powerful feelings of well being and happiness. Thai Massage Harmonizes the Energies of Body and Mind</p>   
+
+<h4>Swedish Massage</h4>
+<p>A classical European massage technique characterized by a delicate manipulation of the muscles and soft tissues using essential oils. It is used to improve circulation, reduces tension, soothes sore muscles, increases flexibility and draws the body into a sate of relaxation. </p>
+
+<h4>Deep Tissue Massage</h4>
+<p>This invigorating deep tissue treatment is specially designed for those who are having high physical and sport activities.  It will relieve the back pain, headache and muscle pain. It perfectly suites for minor sports injuries, repetitive stress injures and for general enhancement of physical condition. Slow, rhythmic, gliding strokes, strokes rolling muscle groups will soft the tissue. It will encourage healing by promoting the flow of blood and lymph, relieving tension stimulating nerves and stretching and loosing muscles and connective tissue to keep them elastic</p>
+
+<h4>Phyto-Aroma Massage</h4>
+<p>Phyto-Aroma massage assists in reducing stress; helps to energize and relax both body and mind.Aroma Oils applied to the skin are absorbed into the blood stream beautifying the body and revitalizing the skin. Aromatherapy surrenders stress, creates a wonderful environment and also promotes inner peace and a happy mental state. </p>   
+
+
+
+<h4>Cranio-Sacral Massage</h4>
+<p>Today’s high exposure to stress wears down the body’s immune system, creating a general breakdown of health. Cranial massage promotes well being by balancing the autonomic nervous system. Cranio-Sacral Therapy works with the natural rhythms of the body. Cranio-Sacral Therapy encourages the body's natural mechanisms to improve the functioning of your brain and spinal cord, dissipate the negative effects of stress, and enhance your general health and resistance to disease. It helps increase physical vitality and well being. </p>
+
+
+
+<h4>Ayurlomi Massage</h4>
+<p>Ayurlomi is a deeply soothing massage treatment that integrates the healing and rhythmic approach of the traditional Hawaiian Lomi Lomi massage and the ancient Indian traditional science of Ayurveda. The benefits are deeply soothing, warming, circulatory and an overall balancing massage experience.</p>
+
+
+                   
+     </div>
+  </div>  
+  </section> 
+
+
+<?include"inc-service.php"?>
+     <!--==============================footer================================-->
+      <footer>
+<?include"inc-footer.php"?>
+  </footer>
+    </div>
+</body>
+</html>
